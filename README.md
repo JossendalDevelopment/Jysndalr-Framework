@@ -1,2 +1,3 @@
 # Jysndalr-Framework
-A Microframework in pure Javascript
+
+A Microframework in Typescript
