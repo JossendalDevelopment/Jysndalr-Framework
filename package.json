@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start:db": "json-server -w db.json",
+        "start:server": "parcel index.html",
+        "start": "concurrently npm:start:*"
+    },
+    "devDependencies": {
+        "typescript": "^3.6.3"
+    },
+    "dependencies": {
+        "axios": "^0.19.0"
+    }
+}
